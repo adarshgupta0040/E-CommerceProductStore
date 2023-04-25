@@ -1,2 +1,2 @@
 # E-CommerceProductStore
-A Full Stack Project 
+A  Java Full Stack Project using Servlets,JSP,Hibernate & HQL
